@@ -16,7 +16,7 @@ The system includes:
 ---
 
 # System Architecture
-
+```
 Dataset
 ↓
 Text Cleaning & Preprocessing
@@ -30,7 +30,7 @@ Fuzzy Clustering (Gaussian Mixture Model)
 Semantic Cache
 ↓
 FastAPI Service
-
+```
 ---
 
 # Dataset
